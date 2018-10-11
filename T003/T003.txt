@@ -1,0 +1,9 @@
+RFC: Describen diversos aspectos del funcionamiento de Internet y otras redes de computadoras,
+como protocolos, procedimientos, etc. y comentarios e ideas sobre estos.
+
+
+1) HTTP:  https://www.w3.org/Protocols/
+2) FTP:  https://tools.ietf.org/html/draft-ietf-ftpext-intl-ftp-06
+3) DNS:  https://tools.ietf.org/html/rfc1612
+4) POP3:  https://tools.ietf.org/html/rfc1939
+5) LDAP:  https://tools.ietf.org/html/rfc4516

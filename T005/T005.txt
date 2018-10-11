@@ -1,0 +1,32 @@
+Tipos MIME: son una serie de convenciones o especificaciones dirigidas al intercambio a través de Internet de todo tipo de archivos (texto, audio, vídeo, etc.) de forma transparente para el usuario.
+
+RFC tipos MIME: https://tools.ietf.org/html/rfc2046.html
+
+Ejemplos tipos MIME:
+application/octet-stream
+application/javascript
+image/gif
+
+MIME imagen png = image/png
+
+MIME html:
+text/html
+application/javascript
+application/xml
+text/css
+application/xhtml+xml
+
+MIME zip:
+.7z     application/x-7z-compressed
+.rar    application/x-rar-compressed, application/octet-stream
+.zip    application/zip, application/octet-stream, application/x-zip-compressed, multipart/x-zip
+
+Cabeceras de la peticion:
+CLIENTE WEB:
+Accept:	text/html,application/xhtml+xm…plication/xml;q=0.9,*/*;q=0.8
+SERVIDOR:
+accept-ranges:	bytes
+
+Cabeceras relacionadas con MIME:
+content-type, Last-Modified, Expires, Content-Length
+Accept, Accept-Encoding, Accept-Language, Content-Length, Content-type
