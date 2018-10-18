@@ -1,0 +1,20 @@
+¿COMO PUEDO MOSTRAR LAS CONEXIONES ACTIVAS?
+Se muestran por defecto. netstat
+
+¿Y LOS PROCESOS QUE ESTAN ESCUCHANDO CONEXIONES POR ALGUN PUERTO?
+sudo netstat -tulpn
+
+¿COMO PUEDO MOSTRAR LOS PROCESOS QUE ESTAN ESCUCHANDO CONEXIONES POR EL PUERTO 80?
+sudo netstat -tulpn | grep --color :80
+
+¿CUANTOS PUEDE HABER COMO MAXIMO ESCUCHANDO POR EL PUERTO 80?
+65536 por cliente e "infinito" en general (capacidad del hardware)
+
+
+a: Show both listening and  non-listening  sockets.
+c: This  will  cause  netstat  to print the selected information every second continuously.
+i: Display a table of all network interfaces.
+l: Show only listening sockets.  (These are omitted by default.)
+p: Show the PID and name of the program to which each socket belongs.
+t: Muestra las conexiones TCP y no el resto a no ser que se especifique otras.
+u: Muestra las conexiones UDP y no el resto a no ser que se especifique otras.

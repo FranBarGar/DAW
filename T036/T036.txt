@@ -1,0 +1,22 @@
+USUARIO PARTICULAR QUE DESEA CREAR UN SITIO WEB PERSONAL
+Alojamiento gratuito. Al ser una web personal no se espera mucho trafico ni la
+necesidad de espacio como para necesitar un mejor hosting.
+
+PANADERIA
+Shared hosting o alojamiento gratuito. Al ser una panaderia no suele ser normal
+que se necesite demasiados recursos. En caso de necesitarlos pasariamos a un alojamiento revendedor.
+
+
+EMPRESA DE DESARROLLO DE SOFTWARE
+Alojamiento web en la nube, servidores dedicados o housing. Debido a las necesidades de produccion
+se necesitan dichos recursos. El servidor dedicado le da una seguiridad extra
+debido a que la maquina que les hace de servidor es completamente suya.
+
+FABRICA DE REFRESCOS
+Alojamiento revendedor o en la nube. En una frabrica no se necesitarian muchos
+recursos, pero para asegurar elegimos unos hosting con posibilidad de ampliacion.
+
+ALUMNO DE SEGUNDO DE CICLO DE DESARROLLO DE APLICACIONES WEB
+Servidor virtual (VPS, virtual private server). Es una forma economica y cercana
+para trabajar en proyectos pequeños como los que se hacen en las asignaturas de dichos
+ciclo.

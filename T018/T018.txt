@@ -1,1 +1,20 @@
 https://www.w3.org/Protocols/HTTP/1.1/rfc2616bis/draft-lafon-rfc2616bis-03.html#POST
+
+Definicion POST:
+The POST method is used to request that the origin server accept the
+entity enclosed in the request as data to be processed by the resource
+identified by the Request-URI in the Request-Line. POST is designed to
+allow a uniform method to cover the following functions:
+ *Annotation of existing resources;
+ *Posting a message to a bulletin board, newsgroup, mailing list, or similar group of articles;
+ *Providing a block of data, such as the result of submitting a form, to a data-handling process;
+ *Extending a database through an append operation.
+
+Ejemplo RFC:
+Posting a message to a bulletin board, newsgroup, mailing list, or similar group of articles;
+
+
+
+
+POST vs PUT
+POST no modifica el servidor web y PUT si lo hace.
