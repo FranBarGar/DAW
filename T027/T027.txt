@@ -1,0 +1,27 @@
+ICANN se fundó en 1998 como asociación sin ánimo de lucro y
+en ella se reúnen personas de todo el mundo cuyo objetivo es
+asegurar que Internet sea segura, estable e interoperativa.
+Esta asociación promueve la competencia y desarrolla políticas
+de identificadores únicos de Internet.
+
+Se dividen en organizaciones de apoyo (supporting organisations)
+y comités asesores (advisory commitees).
+
+Organizaciones de apoyo
+  *Organizaciones que trabajan con direcciones IP
+  *Organizaciones que trabajan con nombres de dominio
+  *Gestores de los dominios de nivel superior geográficos (ccTLD)
+  *Además, existe un grupo conocido como Technical Liaison Group
+que trabaja con los diferentes organismos responsables de la elaboración
+de los protocolos básicos de Internet.
+
+Comités asesores
+ *Gobiernos y organismos internacionales
+ *Operadores de servidores raíz
+ *Organizaciones que se encargan de la seguridad de Internet
+ *Usuario convencional (At-Large Community de la ICANN)
+ *Las decisiones finales son ratificadas por los 21 expertos que conforman
+ la junta directiva de la ICANN, compuesta por diversas comisiones.
+ En los estatutos se dispone que los miembros deben representar la
+ mayor diversidad geográfica y cultural posible.
+  Ademas coordina las funciones de la IANA.

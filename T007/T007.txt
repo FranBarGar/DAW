@@ -1,0 +1,4 @@
+GET /assets/v10/img/svg/marca-mod-bt-portada.svg HTTPS
+Host: e00-elmundo.uecdn.es
+
+Ni idea.

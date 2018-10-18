@@ -6,3 +6,8 @@ http://www.elmundo.es/gii
 telnet elmundo.es 80
 GET / HTTP/1.1
 Host: www.elmundo.es
+
+elmundo.es
+telnet elmundo.es 80
+GET / HTTP/1.1
+Host: elmundo.es

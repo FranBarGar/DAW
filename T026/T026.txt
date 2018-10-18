@@ -1,0 +1,19 @@
+La entidad Internet Assigned Numbers Authority desempeña un
+papel esencial en la gestión de Internet, ya que es responsable
+de asignar nombres y sistemas de números únicos que se usan de acuerdo
+con los estándares técnicos –protocolo de red– de Internet y
+constituyen la base del direccionamiento de páginas web.
+
+IANA coordina la reserva global de números IP y de los conocidos
+como números de sistema autónomo, opera y coordina la zona raíz del DNS y
+se encarga de recoger de forma central los nombres de dominio
+internacionalizados o IDN autorizados. En cooperación con la
+Internet Engineering Task Force (IETF), organización que se ocupa del
+desarrollo técnico de Internet, la IANA gestiona los números y las
+designaciones para los protocolos de Internet (Números de puerto,
+Códigos de estado HTTP, Marcadores de idioma, Números de empresa privada (PEN),
+Atributos de medios).
+
+Desde 1998, la IANA se constituye como una sección de la
+ICANN, organización compuesta, además, por otros grupos que representan
+diferentes intereses en Internet y participan juntos en la toma de decisiones.

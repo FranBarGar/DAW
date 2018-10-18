@@ -1,0 +1,6 @@
+En los dos cambia la fecha (date).
+
+La diferencia entre ambos es que con F5 solo se mantiene la cache,
+por lo tanto reutiliza muchos elementes de la susodicha dando un mensaje de 304.
+Es decir, al pulsar F5 se mantiene la chache y si se pulsa Ctl+F5 se reinicia la caché
+y se vuelve  a pedir todos los elementos.

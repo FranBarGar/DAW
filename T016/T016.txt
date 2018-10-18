@@ -1,0 +1,5 @@
+http://www.elmundo.es
+
+text/html
+application/xhtml+xml
+application/xml

@@ -1,0 +1,5 @@
+https://es.wikipedia.org/wiki/Request_for_Comments
+RFC: Describen diversos aspectos del funcionamiento de Internet y otras redes de computadoras,
+como protocolos, procedimientos, etc. y comentarios e ideas sobre estos.
+
+Sirve para estandarizar la web.
