@@ -4,10 +4,10 @@ https://www.w3.org/Protocols/rfc2616/rfc2616-sec6.html#sec6.1.1
 
 http://www.elmundo.es/gii
 telnet elmundo.es 80
-GET / HTTP/1.1
+GET /gii HTTP/1.1
 Host: www.elmundo.es
 
-elmundo.es
+http://elmundo.es
 telnet elmundo.es 80
 GET / HTTP/1.1
 Host: elmundo.es
