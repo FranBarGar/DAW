@@ -1,9 +1,13 @@
-Tipos MIME: son una serie de convenciones o especificaciones dirigidas al intercambio a través de Internet de todo tipo de archivos (texto, audio, vídeo, etc.) de forma transparente para el usuario.
+Tipos MIME: son una serie de convenciones o especificaciones dirigidas al
+intercambio a través de Internet de todo tipo de archivos (texto, audio,
+vídeo, etc.) de forma transparente para el usuario.
 
-RFC tipos MIME: https://tools.ietf.org/html/rfc2046.html
+RFC tipos MIME:
+https://tools.ietf.org/html/rfc2045
+https://tools.ietf.org/html/rfc2046.html
 
 Ejemplos tipos MIME:
-application/octet-stream
+text/html
 application/javascript
 image/gif
 

@@ -1,0 +1,14 @@
+Alojamiento gratuito
+https://es.000webhost.com/caracteristicas
+
+Alojamiento compartido (shared hosting)
+https://www.hostgator.com/promo/pcmag?clickid=z5dTisxELXR8VVV3GG2OpyhlUkg1Waxc-yndX00&irgwc=1&affpat=1
+
+Alojamiento revendedor (reseller)
+https://www.inmotionhosting.com/reseller-hosting?clickid=z5dTisxELXR8VVV3GG2OpyhlUkg1WaTc-yndX00&irgwc=1&affiliates=66885
+
+Servidores virtuales (VPS, Virtual Private Server)
+https://www.ovh.es/vps/vps-ssd.xml
+
+Servidores dedicados
+https://www.ovh.com/world/dedicated-servers/all_servers.xml?range=hosting

@@ -1,0 +1,1 @@
+sudo echo -en "HTTP/1.1 200 OK\r\nContent-Type: text/html\r\n\r\n<h1>Esto es una respuesta austera a un cliente web desde linea de comando</h1>" | nc -l -p 8000
