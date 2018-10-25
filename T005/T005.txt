@@ -3,8 +3,7 @@ intercambio a través de Internet de todo tipo de archivos (texto, audio,
 vídeo, etc.) de forma transparente para el usuario.
 
 RFC tipos MIME:
-https://tools.ietf.org/html/rfc2045
-https://tools.ietf.org/html/rfc2046.html
+https://www.iana.org/assignments/media-types/media-types.xhtml
 
 Ejemplos tipos MIME:
 text/html
