@@ -1,1 +1,1 @@
-sudo netstat -tucp
+sudo netstat -cp | grep http
