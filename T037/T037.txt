@@ -24,4 +24,4 @@ decisiones en la inteligencia de negocios.
 
 ¿QUE IMPORTANCIA TIENE EL DBA EN EL CONTEXTO DE UNA APLICACION WEB?
 Muy alta. Es el encargado de la gestion y administracion de los datos de la web,
-sin el la web no podria funcionar.
+sin el la web dinamica no podria funcionar.

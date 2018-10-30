@@ -3,7 +3,7 @@ Alojamiento gratuito. Al ser una web personal no se espera mucho trafico ni la
 necesidad de espacio como para necesitar un mejor hosting.
 
 PANADERIA
-Shared hosting o alojamiento gratuito. Al ser una panaderia no suele ser normal
+Shared hosting. Al ser una panaderia no suele ser normal
 que se necesite demasiados recursos. En caso de necesitarlos pasariamos a un alojamiento revendedor.
 
 
@@ -13,8 +13,7 @@ se necesitan dichos recursos. El servidor dedicado le da una seguiridad extra
 debido a que la maquina que les hace de servidor es completamente suya.
 
 FABRICA DE REFRESCOS
-Alojamiento revendedor o en la nube. En una frabrica no se necesitarian muchos
-recursos, pero para asegurar elegimos unos hosting con posibilidad de ampliacion.
+Servidores dedicados. Para mantener la seguridad y fiabilidad.
 
 ALUMNO DE SEGUNDO DE CICLO DE DESARROLLO DE APLICACIONES WEB
 Servidor virtual (VPS, virtual private server). Es una forma economica y cercana
