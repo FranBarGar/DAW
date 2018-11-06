@@ -1,0 +1,21 @@
+https://www.iana.org/assignments/media-types/media-types.xhtml
+
+BUSCAR LA DESCRIPCION DEL TIPO MIME text/html (RFC MIME)
+https://www.iana.org/assignments/media-types/text/html
+
+BUSCAR LA DESCRIPCION DE 3 TIPOS MIME RELACIONADOS CON IMAGENES
+image/png  -> https://www.iana.org/assignments/media-types/image/png
+image/jpx  -> https://www.iana.org/assignments/media-types/image/jpx
+image/bmp  -> https://www.iana.org/assignments/media-types/image/bmp
+
+
+
+BUSCAR LA DESCRIPCION DE 3 TIPOS MIME NO RELACIONADOS CON LOS ANTERIORES
+text/javascript -> https://www.iana.org/assignments/media-types/text/javascript
+text/css -> https://www.iana.org/assignments/media-types/text/css
+audio/mp4 -> https://www.iana.org/assignments/media-types/audio/mp4
+
+BUSCAR LA DESCRIPCION DE 3 TIPOS MIME QUE EL NAVEGADOR NO SEA CAPAZ DE TRATAR/MOSTRAR. EJ: FICHEROS ZIP
+aplication/zip -> https://www.iana.org/assignments/media-types/application/zip
+aplication/gzip ->  https://www.iana.org/assignments/media-types/application/gzip
+aplication/vnd.microsoft.portable-executable -> https://www.iana.org/assignments/media-types/application/vnd.microsoft.portable-executable
