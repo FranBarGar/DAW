@@ -1,0 +1,5 @@
+Comprobar modulos habilitados.
+1º ls /etc/apache2/mods-enabled
+2º apache2ctl -M | sort | more | grep
+3º http://vps612580.ovh.net/server-info
+4º http://vps612580.ovh.net/server-status  // En mi caso /estado.
