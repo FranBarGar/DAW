@@ -3,3 +3,15 @@ Comprobar modulos habilitados.
 2º apache2ctl -M | sort | more | grep
 3º http://vps612580.ovh.net/server-info
 4º http://vps612580.ovh.net/server-status  // En mi caso /estado.
+
+Creaccion de ficheros para autentificacion de ususarios http.
+Los recursos disponibles desde el servidor http apache pueden
+ser restringidos a los ususarios listado en los ficheros
+creados por htpasswd.
+Crea fichero de texto plano.
+Puede encriptar las contraseñas usando los siguientes algoritmos
+de cifrado
+1º bcrypt (version de md5 de apache)
+2º sha1
+3º crypt (funcion del sistema operativo)
+sha1 y crypt son inseguras, se usará bcrypt.
