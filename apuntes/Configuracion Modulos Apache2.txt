@@ -1,3 +1,4 @@
+sudo apache2ctl graceful.
 Comprobar modulos habilitados.
 1º ls /etc/apache2/mods-enabled
 2º apache2ctl -M | sort | more | grep
@@ -15,3 +16,22 @@ de cifrado
 2º sha1
 3º crypt (funcion del sistema operativo)
 sha1 y crypt son inseguras, se usará bcrypt.
+Ejemplos:
+sudo htpasswd -c .htpasswd batman // murcia
+$apr1$FAWem0eY$Ema2c3OaaR1DzZG2wwWx9.
+openssl passwd -apr1 -salt FAWem0eY murcia
+openssl passwd -apr1 -salt FAWem0eY murcia | diff - <(cat .htpasswd | cut -d: -f2)
+Escribir una url para acceder al fichero osito.png que está en la ruta /img en la maquina vps....
+por el puerto 81
+http://batman:murcia@vps612580.ovh.net:81/img
+echo -n YmF0bWFuOm11cmNpYQ== | base64 -d -
+
+Observar peticiones y respuestas para autorizaciones correctas e incorrectas.
+Evitar que el navegador envie automaticamente (recuerde) el ususario y contraseña usado en la ultima
+"peticion" de acceso a la informacion del servidor.
+
+
+Directivas importantes:
+<Directory>
+<Files>
+<Location>
